@@ -7,7 +7,7 @@
 - 🔭 I'm a Researcher at Beijing Innovation Center of Humanoid Robotics. (I'm looking forward to collaborating on exciting projects in this field!). I’m currently working on **Humanoid Robots**:
   - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://x-humanoid.com//)
 
-- 📝 I’m currently learning **Embodied AI, VLN, Vision Perception, LLM, RL in Robotics.** Here are some papers I've published recently :
+- 📝 I’m currently learning **Mathematics, Embodied AI, VLN, Vision Perception, LLM, RL in Robotics.** Here are some papers I've published recently :
 ### Pre - prints
 | Title | Link |
 | --- | --- |
