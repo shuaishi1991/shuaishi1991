@@ -25,7 +25,7 @@
 
 ### 🚀 Projects
 - **"Tiangang 2.0" Humanoid Robot Guide Project Perception Algorithm** (2025)
-- **"[Tiangang" Humanoid Robot Autonomous Running Perception Algorithm](https://www.ncsti.gov.cn/kjdt/ztbd/2025sjrxjqrydh/202508/t20250819_216546.html) - Winner at 1st World Humanoid Robot Games:** (2025)
+- **"[Tiangang" Humanoid Robot Autonomous Running Perception Algorithm](https://www.ncsti.gov.cn/kjdt/ztbd/2025sjrxjqrydh/202508/t20250819_216546.html) - Winner at 1st World Humanoid Robot Games** (2025)
   - 🥇 100m Champion
   - 🥈 400m Runner-up and 3rd place
   - 🥈 1500m Runner-up
