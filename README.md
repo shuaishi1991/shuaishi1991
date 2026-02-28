@@ -11,6 +11,9 @@
 ### Pre - prints
 | Title | Link |
 | --- | --- |
+| MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction | [Link](https://arxiv.org/pdf/2602.15733) |
+| Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots | [Link](https://arxiv.org/pdf/2507.20217) |
+| Occupancy World Model for Robots | [Link](https://arxiv.org/pdf/2505.05512) |
 | RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots | [Link](https://arxiv.org/pdf/2504.14604) |
 
 - 📫 How to reach me **mark.shi@x-humanoid.com** | **shuaishi1991@gmail.com**
