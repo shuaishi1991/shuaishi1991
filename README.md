@@ -20,7 +20,7 @@
 ### 📚 Research Papers
 - **[MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction](https://arxiv.org/pdf/2602.15733)** (2026)
 - **[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/abs/2507.20217)** (2025)
-- **[Occupancy World Model for Robots](https://www.arxiv.org/abs/2505.05512)** (May 2025)
+- **[Occupancy World Model for Robots](https://www.arxiv.org/abs/2505.05512)** (2025)
 - **[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/abs/2504.14604)** (2025)
 
 ### 🚀 Projects
