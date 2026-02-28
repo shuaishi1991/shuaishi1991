@@ -53,7 +53,3 @@ Feel free to reach out for collaboration or discussion!
   <a href="https://github.com/shuaishi1991?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shuaishi1991?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-<p align="center">
-<a href="https://github.com/shuaishi1991?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=shuaishi1991&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="65%" alt="@shuaishi1991's github-readme-stats"/></a>
-</p>
